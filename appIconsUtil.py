@@ -3,7 +3,7 @@ import Image
 import string
 
 inFile = 'OrangeDragon.png'
-sizeArray = ['57','29','72','50','29','32','40','1024']
+sizeArray = ['57','29','72','50','32','40','1024','60','76']
 
 for outSize in sizeArray: 
 	fileName = os.path.splitext(inFile)[0]
